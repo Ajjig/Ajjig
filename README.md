@@ -1,4 +1,4 @@
-### 42Profile
+### 42 Badge
 <a href="https://github.com/Ajjig?tab=repositories"><img src="https://badge.mediaplus.ma/darkblue/majjig" alt="majjig's 42 stats" /></a>
 <p>
 
