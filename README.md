@@ -25,4 +25,4 @@ src="https://img.shields.io/twitter/follow/4jjig?logo=twitter&style=for-the-badg
 
 <a href="http://www.github.com/Ajjig"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajjig&stroke=0891b2&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-<a href="http://www.github.com/Ajjig"><img src="https://activity-graph.herokuapp.com/graph?username=Ajjig&bg_color=ffffff&color=0891b2&line=6366f1&point=0891b2&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajjig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
