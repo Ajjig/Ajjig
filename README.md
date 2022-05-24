@@ -27,7 +27,7 @@ src="https://img.shields.io/twitter/follow/4jjig?logo=twitter&style=for-the-badg
 
 <a href="http://www.github.com/Ajjig"><img src="https://activity-graph.herokuapp.com/graph?username=Ajjig&bg_color=ffffff&color=0891b2&line=6366f1&point=0891b2&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Ajjig" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajjig&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Ajjig" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajjig&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Most Used Languages" /></a>
 
 ### Repositories
 
