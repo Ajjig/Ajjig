@@ -29,7 +29,7 @@ src="https://img.shields.io/twitter/follow/4jjig?logo=twitter&style=for-the-badg
 
 ### Statistics
 
-<a href="http://www.github.com/Ajjig"><img src="https://github-readme-stats.vercel.app/api?username=Ajjig&show_icons=true&hide=prs,issues,&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="Ajjig's GitHub stats" /></a>
+<a href="http://www.github.com/Ajjig"><img src="https://github-readme-stats.vercel.app/api?username=Ajjig&show_icons=true&hide=issues,&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="Ajjig's GitHub stats" /></a>
 
 <a href="http://www.github.com/Ajjig"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajjig&stroke=0891b2&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
