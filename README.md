@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-### 42 Badge
+### 42_Badge
 <a href="https://github.com/Ajjig?tab=repositories"><img src="https://badge.mediaplus.ma/darkblue/majjig" alt="majjig's 42 stats"/></a>
 <p>
 
