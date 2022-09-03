@@ -1,5 +1,5 @@
 ### Badge
-[![majjig's 42 stats](https://badge.mediaplus.ma/darkgray/majjig)](https://github.com/oakoudad/badge42)
+![majjig's 42 stats](https://badge.mediaplus.ma/darkgray/majjig)
 <p></p>
 
 ### Socials
