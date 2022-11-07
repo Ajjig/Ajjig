@@ -1,4 +1,4 @@
-### 42  Badge
+### 42 Badge
 [![majjig's 42 stats](https://badge.mediaplus.ma/darkgray/majjig)](https://github.com/Ajjig?tab=repositories)
 
 
