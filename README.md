@@ -26,4 +26,4 @@ src="https://img.shields.io/twitter/follow/4jjig?logo=twitter&style=for-the-badg
 
 <a href="http://www.github.com/Ajjig"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajjig&stroke=0891b2&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajjig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajjig&layout=compact)](https://github.com/Ajjig?tab=repositories)
