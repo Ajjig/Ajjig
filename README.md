@@ -1,3 +1,5 @@
+### 42 badge
+[![majjig's 42 stats](https://badge.mediaplus.ma/kettlebells/majjig)](https://github.com/oakoudad/badge42)
 
 
 ### Socials
