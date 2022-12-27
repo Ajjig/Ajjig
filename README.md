@@ -1,5 +1,5 @@
 ### 42 badge
-[![majjig's 42 stats](https://bit.ly/majjig)](https://github.com/ajjig)
+[![42 stats](https://bit.ly/majjig)](https://github.com/ajjig)
 
 
 ### Socials
