@@ -9,9 +9,7 @@
 <a href="https://www.linkedin.com/in/ajjig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://hackerrank.com/ajjig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/4jjig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/4jjig" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/4jjig?logo=twitter&style=for-the-badge&color=6366f1&labelColor=f9f9f9f9"></a>
-</p>
+
 
 
 ### Languages && Tools
