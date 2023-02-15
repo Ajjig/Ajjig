@@ -1,5 +1,5 @@
 ### 42 badge
-[![42 stats](https://badge.mediaplus.ma/darkblue/majjig)](https://github.com/Ajjig?tab=repositories)
+[![42_stats](https://badge.mediaplus.ma/darkblue/majjig)](https://github.com/Ajjig?tab=repositories)
 
 ### Socials  
 <a href="https://github.com/Ajjig" target="_blank">
