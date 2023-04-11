@@ -1,7 +1,7 @@
-### 42 badge
+## 42 badge
 [![42_stats](https://badge.mediaplus.ma/darkblue/majjig)](https://github.com/Ajjig?tab=repositories)
 
-### Socials  
+## Socials  
 <a href="https://github.com/Ajjig" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -16,7 +16,7 @@
 </a>  
 
 
-### Languages | Tools
+## Languages | Tools
 
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -32,7 +32,7 @@
 </div>  
 
 
-### Statistics
+## Statistics
 
 <a href="http://www.github.com/Ajjig"><img src="https://github-readme-stats.vercel.app/api?username=Ajjig&show_icons=true&hide=issues,&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="Ajjig's GitHub stats" /></a>
 
