@@ -12,9 +12,6 @@
 <a href="https://linkedin.com/in/ajjig" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_ajjig" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 
 <a href="https://www.codingame.com/profile/efb672bd7a209ee3f53562f959c5a97c5755234">
 <img src=https://biolibre.fr/media/cache/articleMainImg/images/articles/codingame.jpeg height=28 width=120 alt=codingame" />
