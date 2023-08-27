@@ -1,6 +1,6 @@
 ## 42 badge
 
-[![majjig's 42 stats](https://badge42.vercel.app/api/v2/cll4rjzse001608latojrgdvd/stats?cursusId=21&coalitionId=76)](https://github.com/JaeSeoKim/badge42)
+[![42 stats](https://badge42.vercel.app/api/v2/cll4rjzse001608latojrgdvd/stats?cursusId=21&coalitionId=76)](https://github.com/Ajjig?tab=repositories)
 
 ## Socials  
 <a href="https://github.com/Ajjig" target="_blank">
