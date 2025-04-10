@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.codingame.com/profile/efb672bd7a209ee3f53562f959c5a97c5755234">
-<img src=https://biolibre.fr/media/cache/articleMainImg/images/articles/codingame.jpeg height=28 width=120 alt=codingame" />
+<img src="https://logonoid.com/images/codingame-logo.png" height=26 width=95 alt=codingame" />
 </a>
 
 ## Languages & Tools
